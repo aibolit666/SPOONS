@@ -1,6 +1,6 @@
 {
-    "name": "SPOONS",
-    "short_name": "SPOONS",
+    "name": "spoons",
+    "short_name": "spoons",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
